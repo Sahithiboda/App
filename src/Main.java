@@ -18,4 +18,8 @@ public class Main {
         System.out.println("Hello World!!!");
     }
 
+    public static void hello3(){
+        System.out.println("Hello World!!!");
+    }
+
 }
