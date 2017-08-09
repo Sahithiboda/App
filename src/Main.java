@@ -15,7 +15,7 @@ public class Main {
         System.out.println("Hello World!!!");
     }
     public static void hello2(){
-        System.out.println("Hello World!!!");
+        System.out.println("Hello World2kfdgkjg!!!");
     }
 
     public static void hello3(){
